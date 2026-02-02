@@ -1,5 +1,14 @@
 ## [unreleased]
 
+### 📚 Documentation
+
+- 📝 add README with project purpose and tools documentation
+
+### ⚙️ Miscellaneous Tasks
+
+- 🔧 update changelog with recent documentation changes
+## [0.1.0] - 2026-02-02
+
 ### 🚀 Features
 
 - Initial commit with Clean Architecture structure and add function
@@ -33,3 +42,4 @@
 
 - 🔧 add basic pubspec.yaml
 - 👷 add basic github workflow
+- 🔧 update changelog with final test results
