@@ -1,5 +1,10 @@
 ## [unreleased]
 
+### ⚙️ Miscellaneous Tasks
+
+- 🔧 update changelog for v0.2.0-test release
+## [0.2.0-test] - 2026-02-02
+
 ### 📚 Documentation
 
 - 📝 add README with project purpose and tools documentation
