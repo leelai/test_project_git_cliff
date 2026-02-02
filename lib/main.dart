@@ -1,7 +1,7 @@
 void main() {
-  print('Hello, Flutter Clean Architecture!');
+  print('Running Flutter Clean Architecture App...');
   final result = sum(5, 3);
-  print('Result: $result');
+  print('The result is: $result');
 }
 
 int sum(int a, int b) {
